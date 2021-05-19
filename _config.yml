@@ -1,0 +1,10 @@
+# Site settings
+title: My Website
+author: Author is Ali Salehi
+name: Name here is Ali Salehi
+email: alisalehi67@gmail.com
+description: "Great site about Jekyll on GH-Pages."
+github_username: alisalehi67
+
+# Build settings
+remote_theme: jekyll/minima
