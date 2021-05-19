@@ -1,6 +1,6 @@
 ---
-layout: post 1
-title: Ali's first post
+layout: Kooreg's first post
+title: بدبخ کشتی کردن آسمان
 
 ---
 
